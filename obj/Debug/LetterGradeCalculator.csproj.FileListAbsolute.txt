@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\LetterGradeCalculator\bin\Debug\LetterGradeCalculator.exe.config
+C:\Users\HP\source\repos\LetterGradeCalculator\bin\Debug\LetterGradeCalculator.exe
+C:\Users\HP\source\repos\LetterGradeCalculator\bin\Debug\LetterGradeCalculator.pdb
+C:\Users\HP\source\repos\LetterGradeCalculator\obj\Debug\LetterGradeCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LetterGradeCalculator\obj\Debug\LetterGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LetterGradeCalculator\obj\Debug\LetterGradeCalculator.exe
+C:\Users\HP\source\repos\LetterGradeCalculator\obj\Debug\LetterGradeCalculator.pdb
+C:\Users\HP\source\repos\LetterGradeCalculator\obj\Debug\LetterGradeCalculator.exe.config
